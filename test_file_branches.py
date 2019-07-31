@@ -5,6 +5,7 @@ def first_func():
 
 def second_func():
     print('the first part')
+    print('the second part')
 
 
 if __name__ == "__main__":
